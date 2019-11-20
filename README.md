@@ -24,7 +24,7 @@ This is PayPal's official button...
 
 <a href=""><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" height="72"></a>
 
-...yeah, **that's** why 🤮  
+...yeah, **that's** why 🤮
 
 <br/>
 
@@ -36,3 +36,9 @@ Copyright © 2019 Andre Ostrovsky
 <br/>
 
 PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.
+
+<br/>
+
+## donate
+<a href="https://paypal.me/andreostrovsky/"><img src="blue.svg" height="40"></a>  
+If you enjoyed this project — or just feeling generous, consider buying me a beer. Cheers! :beers:
